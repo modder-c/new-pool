@@ -279,6 +279,7 @@
     <ClInclude Include="x16s.h" />
     <ClInclude Include="x17.h" />
     <ClInclude Include="x21s.h" />
+    <ClInclude Include="eaglesong.h" />
     <ClInclude Include="x22i.h" />
     <ClInclude Include="sha512_256.h" />
     <ClInclude Include="minotaur\crypto\insecure_memzero.h" />
@@ -339,6 +340,7 @@
     <ClCompile Include="phi.c" />
     <ClCompile Include="quark.c" />
     <ClCompile Include="qubit.c" />
+    <ClCompile Include="eaglesong.c" />
     <ClCompile Include="s3.c" />
     <ClCompile Include="scryptn.c" />
     <ClCompile Include="sha256csm.c" />

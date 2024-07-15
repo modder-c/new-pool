@@ -64,7 +64,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #include "yespower/yespower.h"
 #include "shake/cshake.h"
 #include "shake/shake.h"
-#include "eaglesong/eaglesong.h"
+#include "eaglesong.h"
 
 #ifdef _WIN32
 #include "blake2/ref/blake2.h"
